@@ -10,7 +10,7 @@ Here're some of the project's best features:
 
 *   1) Control your computer without a mouse.
 *   2) Can perform all the functions a normal mouse can do.
-*   Can work in any environment with ample lighting.
+*   3) Can work in any environment with ample lighting.
 
   
   
